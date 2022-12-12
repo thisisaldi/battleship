@@ -1,4 +1,4 @@
 ﻿# Battleship
  
- ## Project for educational-purpose for College Project
+ Project for educational-purpose for College Project
  
